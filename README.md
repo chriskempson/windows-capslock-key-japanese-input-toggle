@@ -1,5 +1,5 @@
 # Capslock Japanese Input Toggle
-Toggle Japanese input with the Caps Lock key and a non-Japanese keyboard.
+Toggle Japanese input with the CapsLock key on non-Japanese keyboards.
 
 # Windows
 Run `Map Caps Lock to F15.reg` file to remap CapsLock to F15.
