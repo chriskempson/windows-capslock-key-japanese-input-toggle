@@ -1,4 +1,4 @@
-# Capslock Japanese Input Toggle
+# Capslock Key Japanese Input Toggle
 Toggle Japanese input (hiragana/alphanumeric toggle) with the CapsLock key on non-Japanese keyboards. It's like having your very own 英数 key!
 
 # Windows
