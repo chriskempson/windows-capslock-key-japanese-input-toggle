@@ -1,5 +1,5 @@
 # Windows Capslock Key Japanese Input Toggle
-Toggle Japanese input (hiragana/alphanumeric toggle) with the CapsLock key on non-Japanese keyboards. It's like having your very own `Eisu` (<ruby>英数<rt>えいすう</rt></ruby>) key!
+Toggle Japanese input (hiragana/alphanumeric toggle) with the `Caps Lock` key on non-Japanese keyboards in Microsoft Windows. It's like having your very own `Eisu` (<ruby>英数<rt>えいすう</rt></ruby>) key!
 
 ## Installation
 Run `Map Caps Lock to F15.reg` file to remap CapsLock to F15 and restart your computer.
